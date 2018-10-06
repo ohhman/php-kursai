@@ -1,0 +1,44 @@
+body{
+	color: white;
+}
+/*.lele{
+	border: 6px solid orange;
+}*/
+.square{
+	border: 1px solid white;
+	float: left;
+	margin: 6px;
+
+}
+.blue{
+	background-color: blue;
+}
+.red{
+	background-color: red;
+}
+.first{
+	background-color: black;
+}
+.second{
+	background-color: yellow;
+}
+.third{
+	background-color: grey;
+}
+.fourth{
+	background-color: red;
+}
+.fifth{
+	background-color: pink;
+}
+.eigth{
+	background-color: green;
+}
+.vien{
+	padding: 20px 23px 20px 23px !important;
+
+}
+.first, .second, .third, .fourth, .fifth, .eigth{
+	padding: 20px;
+
+}

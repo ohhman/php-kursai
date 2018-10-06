@@ -1,0 +1,55 @@
+body{
+	/*background:url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/2000px-Flag_of_South_Africa.svg.png');*/
+	background-repeat:no-repeat; /*background-repeat:no-repeat nekartos pav; background-size: cover visa puslapi uzdenks, contain tai kad pav plotis sutaptu su narsykles*/
+	/*background-size:contain;*/
+	background-color: green;
+	margin: 0;
+}
+#users{
+	border: 1px solid brown;
+	width: 100%;
+	border-spacing: 0;
+
+}
+#use{
+	background-color:red;
+}
+td {
+	border: 1px dotted orange;
+}
+th {
+	border: 1px dashed orange;
+	background-color: gray;
+	color: white;
+	padding: 5px;
+}
+#first, #second, #third{
+	border: 1px solid white;
+	padding: 5px;
+	margin: 5px;
+	width: 30%;
+	float: left;
+}
+#third:hover{
+	background-color: yellow;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+a:visited {
+	color:grey;
+}
+a:hover{
+	color:white;
+}
+#second a:hover{
+	color:orange;
+
+}
+#second a:visited{
+	color: blue !important;
+}
+#second:hover{
+	background-color: black;
+}

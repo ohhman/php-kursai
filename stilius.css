@@ -1,0 +1,47 @@
+body{
+			background: orange;
+		}
+		#first, #second, #third{
+			
+			padding: 15px;
+			width: 27%;
+			float: left;
+		}
+		.text{
+			border: solid black 1px;
+			padding: 5px;
+			width: 80%;
+		}
+		.pirmas{
+			background:yellow;
+			padding: 30px;
+		}
+		.antras{
+			background: green;
+			padding: 30px;
+		}
+		.trecias{
+			background: red;
+			padding: 30px;
+		}
+		.ketvirtas{
+			background: red;
+			padding: 30px;
+		}
+		.penktas{
+			background: white;
+			padding: 30px;
+			height: 30%;
+		}
+		.sestas{
+			background: blue;
+			padding: 30px;
+		}
+		.septinas{
+			background: black;
+			padding: 30px;
+		}
+		.astunas{
+			background: white;
+			padding: 30px;
+		}
