@@ -1,0 +1,39 @@
+body {
+    background-color: gray;
+}
+.container {
+    background-color: orange;
+}
+ 
+h1 {
+    padding: 10px 20px;
+}
+ 
+.menu {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ 
+.menu .col {
+    padding: 5px;
+}
+ 
+.menu .col:hover {
+    background: darkgray;
+}
+ 
+.menu a {
+    text-decoration: none;
+    color: white;
+}
+ 
+ 
+.logo {
+    padding: 10px;
+    max-width: 100%;
+}
+ 
+.margin-top-5 {
+    margin-top: 5px;
+}
